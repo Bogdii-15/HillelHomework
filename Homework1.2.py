@@ -1,0 +1,6 @@
+hillel = input('Введите Нецелочисленное значение: ')
+print('Результат: ', hillel, type(hillel))
+hillel = float(hillel)
+print('Тип: ', hillel, type(hillel))
+hillel = int(hillel)
+print('Интежеровое значение: ', hillel, type(hillel))
