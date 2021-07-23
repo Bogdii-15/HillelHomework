@@ -1,0 +1,6 @@
+hillel = input('Введите целочисленное значение: ')
+print('Результат: ', hillel, type(hillel))
+hillel = int(hillel)
+print('Тип: ', hillel, type(hillel))
+hillel = float(hillel)
+print('Дробное значение: ', hillel, type(hillel))
