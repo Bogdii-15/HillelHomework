@@ -50,6 +50,6 @@ from random import randint
 #my_str = input('Введите слово: ')
 #new_str = my_str
 #if len(my_str) < 5:
-#    print('Длинна слово меньше 5 символов: ', my_str, new_str[::-1])
+#    print('Длинна слово меньше 5 символов: ', my_str + new_str[::-1])
 #else:
 #    print('Слово больше 5 символов: ', my_str)
